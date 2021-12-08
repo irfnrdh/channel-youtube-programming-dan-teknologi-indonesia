@@ -1,4 +1,8 @@
-# Daftar Channel Youtube Programming & Teknologi Indonesia
+# Awesome! Belajar Dari Youtube
+Terinspirasi oleh para pendahulu.
+
+
+## Daftar Channel Youtube Programming & Teknologi Indonesia
 
 #### Tutorial - General (Frontend & Backend)
 
